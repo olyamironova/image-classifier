@@ -1,1 +1,1 @@
-# art-style-classifier
+# image-classifier
